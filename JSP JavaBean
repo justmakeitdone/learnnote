@@ -1,0 +1,6 @@
+JSP JavaBean
+参考：https://www.runoob.com/jsp/jsp-javabean.html
+提供一个默认的无参构造函数。
+需要被序列化并且实现了 Serializable 接口。
+可能有一系列可读写属性。
+可能有一系列的 getter 或 setter 方法。
